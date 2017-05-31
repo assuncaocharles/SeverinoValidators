@@ -7,7 +7,7 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "declaration": true,
-    "outDir": "./mask",
+    "outDir": "./validators",
     "lib": ["es2015", "dom"]
   },
   "files": [
