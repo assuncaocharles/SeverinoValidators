@@ -20,8 +20,7 @@ export const Severino = {
       return (c: FormControl) => {  
           if(c.value){
                 let value = c.value.replace(/[^0-9]+/ig, "");
-                value = Number(value / 100);
-                console.log(value);
+                value = Number(value);
                 if(value >= Value) {
                       return null;
                 }           
