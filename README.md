@@ -1,5 +1,7 @@
 # About
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/assuncaocharles/SeverinoValidators.svg)](https://greenkeeper.io/)
+
 Pacote com validadores para Angular 2 Model Driven Forms.
 
 ### Validações implementadas
